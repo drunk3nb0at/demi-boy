@@ -1,8 +1,8 @@
-# demi-boy
-Demi-boy Pride in GitHub Repository Languages
-
-
 # Demi-boy Pride in GitHub Repository Languages
+
+A demiboy is someone who partially identifies as a boy / man, regardless of their assigned gender at birth. 
+
+This identity exists within the broader spectrum of gender identities and acknowledges that gender can be fluid & multifaceted. Demiboys may feel a strong connection to masculinity, but not to the extent of identifying fully as male. 
 
 ![DemiBoy Pride Flag, with deep grey, light grey, blue, and white](DemiBoy-Pride-Flag.png)
 
