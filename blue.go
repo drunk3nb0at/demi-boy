@@ -43,21 +43,4 @@ func main() {
 	p(then.After(now))
 	p(then.Equal(now))
 
-	// The `Sub` methods returns a `Duration` representing
-	// the interval between two times.
-	diff := now.Sub(then)
-	p(diff)
-
-	// We can compute the length of the duration in
-	// various units.
-	p(diff.Hours())
-	p(diff.Minutes())
-	p(diff.Seconds())
-	p(diff.Nanoseconds())
-
-	// You can use `Add` to advance a time by a given
-	// duration, or with a `-` to move backwards by a
-	// duration.
-	p(then.Add(diff))
-	p(then.Add(-diff))
 }
