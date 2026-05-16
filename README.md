@@ -4,12 +4,12 @@ A demiboy is someone who partially identifies as a boy / man, regardless of thei
 
 This identity exists within the broader spectrum of gender identities and acknowledges that gender can be fluid & multifaceted. Demiboys may feel a strong connection to masculinity, but not to the extent of identifying fully as male. 
 
-![DemiBoy Pride Flag, with deep grey, light grey, blue, and white](DemiBoy-Pride-Flag.png)
 
+<p align="center">
+    <img src="DemiBoy-Pride-Flag.png" alt="Demiboy Pride Flag" width="400">
+</p>
 
-## Testing the programs
-
-Executable programs that do little, but were crafted with love all the same!
+## Programming Languages and Colors
 
 Deep Grey 1: C
 
@@ -23,7 +23,10 @@ Light Grey 1: [Daslang](https://daslang.io/#news)
 
 Blue 1: Go
 
-![](https://go.dev/images/gophers/motorcycle.svg){width="200"}
+
+<p align="left">
+    <img src="https://go.dev/images/gophers/motorcycle.svg" alt="GoLang" width="200">
+</p>
 
 - [Online Go Console](https://go.dev/play/)
 
@@ -35,7 +38,9 @@ White: [EmberScript](https://emberjs.com/)
 
 Blue 2: [Luau](https://luau.org/)
 
-![](https://luau.org/_astro/mascot.iwZjauS8_1jdjiU.webp){width="200"}
+<p align="left">
+    <img src="https://luau.org/_astro/mascot.iwZjauS8_1jdjiU.webp" alt="GoLang" width="200">
+</p>
 
 Luau (lowercase u, /ˈlu.aʊ/) is a small, fast, and embeddable programming language based on Lua with a gradual type system.
 
@@ -45,11 +50,18 @@ Light Grey 2: [AngelScript](https://angelcode.com/angelscript/)
 
 - AngelScript is a flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts.
 
-![](https://angelcode.com/angelscript/sdk/docs/manual/aslogo.png){width="200"}
+
+<p align="left">
+    <img src="https://angelcode.com/angelscript/sdk/docs/manual/aslogo.png" alt="GoLang" width="200">
+</p>
 
 Deep Grey 2: [Wren](https://wren.io/getting-started.html)
 
-![](https://wren.io/wren.svg){width="200"}
+
+
+<p align="left">
+    <img src="https://wren.io/wren.svg" alt="GoLang" width="200">
+</p>
 
 - [Try online](https://wren.io/try/)
 
