@@ -41,7 +41,11 @@ Luau (lowercase u, /ˈlu.aʊ/) is a small, fast, and embeddable programming lang
 
 - Try Luau online: [Luau Playground](https://play.luau.org/)
 
-Light Grey 2: ini
+Light Grey 2: [AngelScript](https://angelcode.com/angelscript/)
+
+- AngelScript is a flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts.
+
+![](https://angelcode.com/angelscript/sdk/docs/manual/aslogo.png){width="200"}
 
 Deep Grey 2: [Wren](https://wren.io/getting-started.html)
 
