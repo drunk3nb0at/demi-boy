@@ -23,6 +23,8 @@ Light Grey 1: [Daslang](https://daslang.io/#news)
 
 Blue 1: Go
 
+![](https://go.dev/images/gophers/motorcycle.svg){width="200"}
+
 - [Online Go Console](https://go.dev/play/)
 
 - [Go by Example](https://gobyexample.com/)
@@ -31,6 +33,13 @@ Blue 1: Go
 
 White: [EmberScript](https://emberjs.com/)
 
+Blue 2: [Luau](https://luau.org/)
+
+![](https://luau.org/_astro/mascot.iwZjauS8_1jdjiU.webp){width="200"}
+
+Luau (lowercase u, /ˈlu.aʊ/) is a small, fast, and embeddable programming language based on Lua with a gradual type system.
+
+- Try Luau online: [Luau Playground](https://play.luau.org/)
 
 
 ## Prior Art
