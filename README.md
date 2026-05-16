@@ -41,6 +41,15 @@ Luau (lowercase u, /ˈlu.aʊ/) is a small, fast, and embeddable programming lang
 
 - Try Luau online: [Luau Playground](https://play.luau.org/)
 
+Light Grey 2: ini
+
+Deep Grey 2: [Wren](https://wren.io/getting-started.html)
+
+![](https://wren.io/wren.svg){width="200"}
+
+- [Try online](https://wren.io/try/)
+
+
 
 ## Prior Art
 
