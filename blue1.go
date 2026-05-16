@@ -1,6 +1,3 @@
-// Go offers extensive support for times and durations;
-// here are some examples.
-
 package main
 
 import (
@@ -26,21 +23,8 @@ func main() {
 	// value as expected.
 	p(then.Year())
 	p(then.Month())
-	p(then.Day())
-	p(then.Hour())
-	p(then.Minute())
-	p(then.Second())
-	p(then.Nanosecond())
-	p(then.Location())
 
 	// The Monday-Sunday `Weekday` is also available.
 	p(then.Weekday())
-
-	// These methods compare two times, testing if the
-	// first occurs before, after, or at the same time
-	// as the second, respectively.
-	p(then.Before(now))
-	p(then.After(now))
-	p(then.Equal(now))
 
 }

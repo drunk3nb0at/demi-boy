@@ -11,9 +11,9 @@ This identity exists within the broader spectrum of gender identities and acknow
 
 Executable programs that do little, but were crafted with love all the same!
 
-Deep Grey: C
+Deep Grey 1: C
 
-Light Grey: [Daslang](https://daslang.io/#news) 
+Light Grey 1: [Daslang](https://daslang.io/#news) 
 
 - Daslang (former daScript) is a high-level programming language that features strong static typing. It is designed to provide high performance and serves as an embeddable 'scripting' language for C++ applications that require fast and reliable performance, such as games or back end/servers. Additionally, it functions effectively as a standalone programming language.
 
@@ -21,7 +21,7 @@ Light Grey: [Daslang](https://daslang.io/#news)
 
 - [Online Console](https://gaijinentertainment.github.io/try-dascript/)
 
-Blue: Go
+Blue 1: Go
 
 - [Online Go Console](https://go.dev/play/)
 
@@ -29,9 +29,9 @@ Blue: Go
 
 - [Go Time Package](https://pkg.go.dev/time)
 
-White: Vala
+White: [EmberScript](https://emberjs.com/)
 
-White: 
+
 
 ## Prior Art
 
