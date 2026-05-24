@@ -1,5 +1,6 @@
 -- we can define our own structural data types
 type Point = { x: number, y: number }
+
 -- and we can annotate variables (and function arguments) with them)
 local p: Point = { x = 6, y = 7 }
 
