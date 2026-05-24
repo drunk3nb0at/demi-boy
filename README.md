@@ -9,7 +9,7 @@ This identity exists within the broader spectrum of gender identities and acknow
     <img src="DemiBoy-Pride-Flag.png" alt="Demiboy Pride Flag" width="300">
 </p>
 
-<p align="right">
+<p align="left">
     <img src="screenshot.jpg" alt="Demiboy Pride Flag" width="300">
 </p>
 
