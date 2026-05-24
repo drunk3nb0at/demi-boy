@@ -5,8 +5,12 @@ A demiboy is someone who partially identifies as a boy / man, regardless of thei
 This identity exists within the broader spectrum of gender identities and acknowledges that gender can be fluid & multifaceted. Demiboys may feel a strong connection to masculinity, but not to the extent of identifying fully as male. 
 
 
-<p align="center">
-    <img src="DemiBoy-Pride-Flag.png" alt="Demiboy Pride Flag" width="400">
+<p align="left">
+    <img src="DemiBoy-Pride-Flag.png" alt="Demiboy Pride Flag" width="300">
+</p>
+
+<p align="right">
+    <img src="screenshot.jpg" alt="Demiboy Pride Flag" width="300">
 </p>
 
 ## Programming Languages and Colors
