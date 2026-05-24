@@ -6,12 +6,13 @@ This identity exists within the broader spectrum of gender identities and acknow
 
 
 <p align="left">
-    <img src="DemiBoy-Pride-Flag.png" alt="Demiboy Pride Flag" width="300">
+    <img src="screenshot.jpg" alt="Demiboy Pride Flag" width="300">
 </p>
 
 <p align="left">
-    <img src="screenshot.jpg" alt="Demiboy Pride Flag" width="300">
+    <img src="DemiBoy-Pride-Flag.png" alt="Demiboy Pride Flag" width="300">
 </p>
+
 
 ## Programming Languages and Colors
 
